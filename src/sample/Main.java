@@ -53,12 +53,12 @@ public class Main extends Application {
         TextField num1binput = new TextField();
         grid.add(num1binput, 1, 2);
 
-        Label num2a = new Label("first complex number a:");
+        Label num2a = new Label("second complex number a:");
         grid.add(num2a, 0, 3);
         TextField num2ainput = new TextField();
         grid.add(num2ainput, 1, 3);
 
-        Label num2b = new Label("first complex number b:");
+        Label num2b = new Label("second complex number b:");
         grid.add(num2b, 0, 4);
         TextField num2binput = new TextField();
         grid.add(num2binput, 1, 4);
